@@ -1,7 +1,6 @@
 ## Coktilat challenge
 
-The project was depolyed on Vercel [Coktilat challenge](https://coktail-challenge.vercel.app/)
-The project was created using `Nextjs, React, Css modules`
+The project was depolyed on Vercel, [Coktilat challenge](https://coktail-challenge.vercel.app/). The project was created using `Nextjs, React, Css modules`
 
 **Please consider the following:**
 
