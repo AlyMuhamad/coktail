@@ -265,7 +265,7 @@ const cardsData = [
     busy: false,
     attachedIcon: <SlPhone className={styles.contactIcon} />,
     labels: ['anxiety', 'work-stress', 'family-issues'],
-    desc: 'Compassionate listener with a multicultural background. I help people navigate identity issues and relationship challenge',
+    desc: 'Chief Psychologist with over 12 years of experience in clinical psychology and mental health program development.',
     stats: [
       {
         id: 1,
@@ -359,7 +359,7 @@ const cardsData = [
     busy: false,
     attachedIcon: <SlPhone className={styles.contactIcon} />,
     labels: ['anxiety', 'work-stress', 'family-issues'],
-    desc: 'Compassionate listener with a multicultural background. I help people navigate identity issues and relationship challenge',
+    desc: 'Experienced Lead Psychologist with over 10 years of expertise in clinical and organizational psychology. ',
     stats: [
       {
         id: 1,
@@ -400,7 +400,7 @@ const cardsData = [
     busy: true,
     attachedIcon: <IoIosNotificationsOutline className={styles.bellIcon} />,
     labels: ['anxiety', 'work-stress', 'family-issues'],
-    desc: 'Compassionate listener with a multicultural background. I help people navigate identity issues and relationship challenge',
+    desc: 'Enthusiastic psychology graduate with a deep fascination for understanding human behaviour and mental processes.',
     stats: [
       {
         id: 1,
